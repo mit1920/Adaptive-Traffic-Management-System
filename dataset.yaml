@@ -1,0 +1,6 @@
+
+train: /kaggle/input/traffic-vehicles-object-detection/Traffic Dataset/images/train
+val: /kaggle/input/traffic-vehicles-object-detection/Traffic Dataset/images/val
+
+nc: 7
+names: ['Car',Two Wheeler', 'Auto', 'Bus', 'Truck']
